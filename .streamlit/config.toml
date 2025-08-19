@@ -1,0 +1,5 @@
+[theme]
+base = "dark"                       # <- THIS forces dark
+primaryColor = "#095f91ff"        
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
